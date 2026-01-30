@@ -1,11 +1,4 @@
-┊         ┊       ┊   ┊    ┊        ┊
-┊         ┊       ┊   ┊   ˚★⋆｡˚  ⋆
-┊         ┊       ┊   ⋆
-┊         ┊       ★⋆
-┊ ◦
-★⋆      ┊ .  ˚
-           ˚★
-           
+          
 # Hi there! 👋 I'm Natalia ˖.𖥔 ݁ ˖ ⊹ ࣪ ˖ 
 
 ### 👩‍💻 Computer Engineering Student | Cybersecurity & AI Enthusiast  
@@ -21,7 +14,7 @@ Disfruto participando en retos técnicos como **CTFs**. Me encanta aprender y cr
 
 Actualmente estoy desarrollando mi **Trabajo de Fin de Grado**, centrado en una **plataforma OSINT serverless en AWS** para la ingesta y procesamiento automático de datos.
 
-⋆⭒˚.⋆
+---
 
 ## 🇬🇧 About me
 
@@ -31,7 +24,7 @@ I actively participate in technical challenges such as **CTFs**. I love learning
 
 I'm currently working on my **Bachelor’s Thesis**, focused on designing a **serverless OSINT platform on AWS** for automated data ingestion and processing.
 
-⋆⭒˚.⋆
+---
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +48,8 @@ I'm currently working on my **Bachelor’s Thesis**, focused on designing a **se
 - Ethical Hacking
 - CTF competitions
 
-⋆⭒˚.⋆
+˚　　　　✦　　　.　　. 　 ˚　.　　　　　 . ✦　　　 　˚　　　　 . ★⋆. ࿐࿔ 
+　　　.   　　˚　　 　　*　　 　　✦　　　.　　.　　　✦　˚ 　　　　 ˚　.˚　　　　✦　　　.　　. 　 ˚　.
 
 ## 🧠 What you'll find here
 
@@ -66,7 +60,7 @@ I'm currently working on my **Bachelor’s Thesis**, focused on designing a **se
 
 (I'm constantly improving and adding new projects 🚀)
 
-⋆⭒˚.⋆
+---
 
 ## 🏆 Highlights
 
@@ -75,7 +69,7 @@ I'm currently working on my **Bachelor’s Thesis**, focused on designing a **se
 - ⚡️ co-developed challenges for a Faculty's CTF (UCM)
 - 🎓 Honor Roll in selected university courses
 
-⋆⭒˚.⋆
+---
 
 ## 🌱 Currently learning
 
@@ -84,7 +78,7 @@ I'm currently working on my **Bachelor’s Thesis**, focused on designing a **se
 - Creating webs and apps
 - Web and app design
 
-⋆⭒˚.⋆
+---
 
 ## 📫 Let's connect ‧₊˚♪ 𝄞₊˚⊹
 
